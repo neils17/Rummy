@@ -1,0 +1,8 @@
+{
+  "name": "Indian 13-Card Rummy",
+  "description": "A 2-player local Wi-Fi 13-Card Indian Rummy game with real-time syncing and smooth drag-and-drop card interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
